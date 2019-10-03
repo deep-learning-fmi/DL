@@ -8,6 +8,7 @@
 # Labs 
 ### [Lab1](./Labs/LAB01.pdf)
 
- > CNNs for Image Classification
- > [MNIST](./Data/lab1/mnist.zip) Dataset
+> CNNs for Image Classification
+
+> [MNIST](./Data/lab1/mnist.zip) Dataset
   
