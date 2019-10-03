@@ -10,5 +10,5 @@
 
 > CNNs for Image Classification
 
-> CIFAR10 test [image](./Data/lab1/cifar_test.png), [MNIST](./Data/lab1/mnist.zip) Dataset
+> CIFAR10 test [image](./Data/lab1/cifar_test.png), MNIST [Dataset](./Data/lab1/mnist.zip)
   
