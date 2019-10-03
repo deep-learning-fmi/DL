@@ -6,7 +6,8 @@
 > Introduction to Deep Learning
 
 # Labs 
-### [Lab1](./Labs/Lab1.pdf)
+### [Lab1](./Labs/LAB01.pdf)
 
- > sub-title
+ > CNNs for Image Classification
+ > [MNIST](./Data/lab1/mnist.zip) Dataset
   
