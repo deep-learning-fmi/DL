@@ -11,4 +11,6 @@
 > CNNs for Image Classification
 
 > CIFAR10 test [image](./Data/lab1/cifar_test.png), MNIST [Dataset](./Data/lab1/mnist.zip)
+
+> [Code Skel](./Labs/Lab_1_CNN_Cifar_SKEL.ipynb)
   
