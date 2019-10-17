@@ -21,4 +21,10 @@
 > CIFAR10 test [image](./Data/lab1/cifar_test.png), MNIST [Dataset](./Data/lab1/mnist.zip)
 
 > [Code Skel](./Labs/Lab_1_CNN_Cifar_SKEL.ipynb)
+
+### [Lab2](./Labs/Lab2_CNN_for_Text_Classification.pdf)
+
+> CNNs for Text Classification
+
+> [Code Skel](./Labs/Lab2_CNN_for_Text_Classification_SKEL.ipynb)
   
