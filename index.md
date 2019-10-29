@@ -13,6 +13,18 @@
 >
 > Modular Design
 
+### [Lecture 3](./Lectures/Lecture3.pptx)
+
+> Convolutional Neural Networks
+
+### [Lecture 4](./Lectures/Lecture4.pptx)
+
+> Regularization
+>
+> Transfer Learning
+>
+> Data Augmentation
+
 # Labs 
 ### [Lab1](./Labs/LAB01.pdf)
 
