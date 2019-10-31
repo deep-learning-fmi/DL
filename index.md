@@ -40,3 +40,6 @@
 
 > [Code Skel](./Labs/Lab2_CNN_for_Text_Classification_SKEL.ipynb)
   
+### [Lab3](./Labs/LAB03.pdf)
+
+> Transfer Learning
