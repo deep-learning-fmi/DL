@@ -43,3 +43,16 @@
 ### [Lab3](./Labs/LAB03.pdf)
 
 > Transfer Learning
+
+
+# Projects 
+
+### NLP Project
+
+> [Link to challenge](https://inclass.kaggle.com/c/unibuc-2019-m2-nlp)
+> [Link to subscribe](https://www.kaggle.com/t/b5e4ed48925746f5801836518495b224)
+
+### CV Project
+
+> comming soon...
+
