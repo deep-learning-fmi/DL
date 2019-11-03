@@ -55,5 +55,7 @@
 
 ### CV Project
 
-> comming soon...
+> [Link to challenge](https://inclass.kaggle.com/c/unibuc-2019-m2-cv)
+>
+> [Link to subscribe](https://www.kaggle.com/t/073c13789eac4939944097e924af8879)
 
