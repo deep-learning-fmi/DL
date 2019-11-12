@@ -25,6 +25,14 @@
 >
 > Data Augmentation
 
+### [Lecture 5](./Lectures/Lecture5.pptx)
+
+> Recurrent Neural Networks
+>
+> Long Short-Term Memory
+>
+> Sequence-to-sequence
+
 # Labs 
 ### [Lab1](./Labs/LAB01.pdf)
 
@@ -49,13 +57,13 @@
 
 ### NLP Project
 
-> [Link to challenge](https://inclass.kaggle.com/c/unibuc-2019-m2-nlp)
+> [Link to challenge](https://www.kaggle.com/c/unibuc-2019-m2-nlp)
 >
 > [Link to subscribe](https://www.kaggle.com/t/b5e4ed48925746f5801836518495b224)
 
 ### CV Project
 
-> [Link to challenge](https://inclass.kaggle.com/c/unibuc-2019-m2-cv)
+> [Link to challenge](https://www.kaggle.com/c/unibuc-2019-m2-cv)
 >
 > [Link to subscribe](https://www.kaggle.com/t/073c13789eac4939944097e924af8879)
 
