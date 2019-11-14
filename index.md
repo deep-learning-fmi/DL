@@ -63,10 +63,6 @@
 > Long Short Term Memory Networks
 >
 
-> Transfer Learning
->
-> [Code Skel](./Labs/lab3_Trasfer_Learning_SKEL.ipynb)
-
 # Projects 
 
 ### NLP Project
