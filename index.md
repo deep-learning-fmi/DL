@@ -58,6 +58,14 @@
 >
 > [Code Skel](./Labs/lab3_Trasfer_Learning_SKEL.ipynb)
 
+### [Lab4](./Labs/Lab4_LSTM_tutorial.pdf)
+
+> Long Short Term Memory Networks
+>
+
+> Transfer Learning
+>
+> [Code Skel](./Labs/lab3_Trasfer_Learning_SKEL.ipynb)
 
 # Projects 
 
