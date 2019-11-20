@@ -33,6 +33,27 @@
 >
 > Sequence-to-sequence
 
+### [Lecture 6](./Lectures/Lecture6.pptx)
+
+> Auto-encoders
+>
+> Convolutional Auto-encoders
+>
+> Denoising Auto-encoders
+>
+> Contractive Auto-oencoders
+>
+> Stacked Auto-encoders
+>
+> Applications
+
+### [Lecture 7](./Lectures/Lecture7.pptx)
+
+> Generative Adversarial Networks
+>
+> Cycle-consistent Generative Adversarial Networks
+>
+
 # Labs 
 ### [Lab1](./Labs/LAB01.pdf)
 
