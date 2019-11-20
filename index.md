@@ -41,7 +41,7 @@
 >
 > Denoising Auto-encoders
 >
-> Contractive Auto-oencoders
+> Contractive Auto-encoders
 >
 > Stacked Auto-encoders
 >
@@ -52,7 +52,6 @@
 > Generative Adversarial Networks
 >
 > Cycle-consistent Generative Adversarial Networks
->
 
 # Labs 
 ### [Lab1](./Labs/LAB01.pdf)
