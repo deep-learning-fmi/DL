@@ -83,7 +83,7 @@
 > Long Short Term Memory Networks
 >
 
-### [Lab5]('./Labs/LAB.pdf)
+### [Lab5]('./Labs/LAB05.pdf)
 
 > Autoencoders
 >
