@@ -83,6 +83,11 @@
 > Long Short Term Memory Networks
 >
 
+### [Lab5]('./Labs/LAB.pdf)
+
+> Autoencoders
+>
+
 # Projects 
 
 ### NLP Project
