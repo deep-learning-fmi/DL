@@ -53,6 +53,22 @@
 >
 > Cycle-consistent Generative Adversarial Networks
 
+### [Lecture 8](./Lectures/Lecture8.pptx)
+
+> Curriculum Learning
+>
+> Object Localization and Detection
+>
+> Image Generation
+
+### [Lecture 9](./Lectures/Lecture9.pptx)
+
+> Object Localization
+>
+> Object Detection
+>
+> Faster R-CNN
+
 # Labs 
 ### [Lab1](./Labs/LAB01.pdf)
 
