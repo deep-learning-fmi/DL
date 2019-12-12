@@ -104,6 +104,11 @@
 > Autoencoders
 >
 
+### [Lab6](./Labs/LAB06.zip)
+
+> Generative Adversarial Networks
+>
+
 # Projects 
 
 ### NLP Project
