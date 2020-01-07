@@ -69,6 +69,24 @@
 >
 > Faster R-CNN
 
+### [Lecture 10](./Lectures/Lecture10.pptx)
+
+> Fooling CNNs
+>
+> Adversarial Examples
+>
+> Robustness to Adversarial Examples
+
+### [Lecture 11](./Lectures/Lecture11.pptx)
+
+> Distributional Semantics
+>
+> Word Embeddings
+>
+> Skip-gram Model
+>
+> Continuous Bag-of-Words Model
+
 # Labs 
 ### [Lab1](./Labs/LAB01.pdf)
 
@@ -97,17 +115,14 @@
 ### [Lab4](./Labs/Lab4_LSTM_tutorial.pdf)
 
 > Long Short Term Memory Networks
->
 
 ### [Lab5](./Labs/LAB05.pdf)
 
 > Autoencoders
->
 
 ### [Lab6](./Labs/LAB06.zip)
 
 > Generative Adversarial Networks
->
 
 # Projects 
 
