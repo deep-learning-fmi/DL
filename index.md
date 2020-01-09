@@ -124,6 +124,12 @@
 
 > Generative Adversarial Networks
 
+### [Lab7](./Labs/LAB07.zip)
+
+> Word Embeddings
+>
+> [Code Skel](./Labs/lab7_skel.zip)
+
 # Projects 
 
 ### NLP Project
