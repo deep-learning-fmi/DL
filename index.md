@@ -87,6 +87,12 @@
 >
 > Continuous Bag-of-Words Model
 
+### [Lecture 12](./Lectures/Lecture12.pptx)
+
+> Lessons Learned from Word Embeddings
+>
+> Document Embeddings
+
 # Labs 
 ### [Lab1](./Labs/LAB01.pdf)
 
