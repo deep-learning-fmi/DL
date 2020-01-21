@@ -138,15 +138,15 @@
 
 # Projects 
 
+### Presentation and Grades
+
+> [Link to GDoc](https://docs.google.com/spreadsheets/d/1110DYbMsHyyczpYfPwv8xoMLffm4CCA7wdIRSSuaro4/edit?usp=sharing)
+
 ### NLP Project
 
 > [Link to challenge](https://www.kaggle.com/c/unibuc-2019-m2-nlp)
->
-> [Link to subscribe](https://www.kaggle.com/t/b5e4ed48925746f5801836518495b224)
 
 ### CV Project
 
 > [Link to challenge](https://www.kaggle.com/c/unibuc-2019-m2-cv)
->
-> [Link to subscribe](https://www.kaggle.com/t/073c13789eac4939944097e924af8879)
 
