@@ -5,6 +5,16 @@
  
 > Introduction to Deep Learning
 
+### [Lecture 2](./Lectures/Lecture2.pptx)
+
+> Neural Networks
+>
+> Backpropagation
+>
+> Modular Design
+>
+> [Code](./Lectures/code-l2.zip)
+
 # Labs 
 ### [Lab1](./Labs/LAB01.pdf)
 
