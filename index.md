@@ -15,6 +15,10 @@
 >
 > [Code](./Lectures/code-l2.zip)
 
+### [Lecture 3](./Lectures/Lecture3.pptx)
+
+> Convolutional Neural Networks
+
 # Labs 
 ### [Lab1](./Labs/LAB01.pdf)
 
