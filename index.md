@@ -38,3 +38,11 @@
 >
 > [Solution](./Labs/Lab_1_CNN_Cifar_SOL.ipynb)
 
+
+### [Lab2](./Labs/lab2.zip)
+
+> CNNs for Text Classification
+
+### [Lab3](./Labs/lab3.zip)
+
+> Transfer Learning
