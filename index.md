@@ -27,6 +27,14 @@
 >
 > Data Augmentation
 
+### [Lecture 5](./Lectures/Lecture5.pptx)
+
+> Recurrent Neural Networks
+>
+> Long Short-Term Memory
+>
+> Sequence-to-sequence
+
 # Labs 
 ### [Lab1](./Labs/LAB01.pdf)
 
