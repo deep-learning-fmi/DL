@@ -27,6 +27,28 @@
 >
 > Data Augmentation
 
+### [Lecture 5](./Lectures/Lecture5.pptx)
+
+> Recurrent Neural Networks
+>
+> Long Short-Term Memory
+>
+> Sequence-to-sequence
+
+### [Lecture 6](./Lectures/Lecture6.pptx)
+
+> Auto-encoders
+>
+> Convolutional Auto-encoders
+>
+> Denoising Auto-encoders
+>
+> Contractive Auto-encoders
+>
+> Stacked Auto-encoders
+>
+> Applications
+
 # Labs 
 ### [Lab1](./Labs/LAB01.pdf)
 
