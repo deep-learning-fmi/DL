@@ -49,6 +49,20 @@
 >
 > Applications
 
+### [Lecture 7](./Lectures/Lecture7.pptx)
+
+> Generative Adversarial Networks
+>
+> Cycle-consistent Generative Adversarial Networks
+
+### [Lecture 8](./Lectures/Lecture8.pptx)
+
+> Object Localization
+>
+> Object Detection
+>
+> Faster R-CNN
+
 # Labs 
 ### [Lab1](./Labs/LAB01.pdf)
 
