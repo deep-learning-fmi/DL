@@ -144,9 +144,9 @@
 
 ### NLP Project
 
-> [Link to challenge](https://www.kaggle.com/c/pml-2020-unibuc/)
+> [Link to challenge](https://www.kaggle.com/c/dl-2020-unibuc-cv/)
 
 ### CV Project
 
-> [Link to challenge](https://www.kaggle.com/c/unibuc-2019-m2-cv)
+> [Link to challenge](https://www.kaggle.com/c/dl-2020-unibuc-nlp)
 

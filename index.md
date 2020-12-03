@@ -63,6 +63,14 @@
 >
 > Faster R-CNN
 
+### [Lecture 9](./Lectures/Lecture9.pptx)
+
+> Curriculum Learning
+>
+> Object Localization and Detection
+>
+> Image Generation
+
 # Labs 
 ### [Lab1](./Labs/LAB01.pdf)
 
@@ -86,4 +94,15 @@
 ### [Lab4](./Labs/lab4.zip)
 
 > Long Short Term Memory (LSTMs)
+
+# Projects 
+
+### Vision Task on Kaggle
+
+> [Link to challenge](https://www.kaggle.com/c/dl-2020-unibuc-cv/)
+
+### NLP Task on Kaggle
+
+> [Link to challenge](https://www.kaggle.com/c/dl-2020-unibuc-nlp)
+
 
