@@ -71,6 +71,16 @@
 >
 > Image Generation
 
+### [Lecture 10](./Lectures/Lecture10.pptx)
+
+> Distributional Semantics
+>
+> Word Embeddings
+>
+> Skip-gram Model
+>
+> Continuous Bag-of-Words Model
+
 # Labs 
 ### [Lab1](./Labs/LAB01.pdf)
 
