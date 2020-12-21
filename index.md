@@ -49,6 +49,38 @@
 >
 > Applications
 
+### [Lecture 7](./Lectures/Lecture7.pptx)
+
+> Generative Adversarial Networks
+>
+> Cycle-consistent Generative Adversarial Networks
+
+### [Lecture 8](./Lectures/Lecture8.pptx)
+
+> Object Localization
+>
+> Object Detection
+>
+> Faster R-CNN
+
+### [Lecture 9](./Lectures/Lecture9.pptx)
+
+> Curriculum Learning
+>
+> Object Localization and Detection
+>
+> Image Generation
+
+### [Lecture 10](./Lectures/Lecture10.pptx)
+
+> Distributional Semantics
+>
+> Word Embeddings
+>
+> Skip-gram Model
+>
+> Continuous Bag-of-Words Model
+
 # Labs 
 ### [Lab1](./Labs/LAB01.pdf)
 
@@ -76,4 +108,14 @@
 ### [Lab5](./Labs/LAB05.pdf)
 
 > Autoencoders and Variational Autoencoders
+
+# Projects 
+
+### Vision Task on Kaggle
+
+> [Link to challenge](https://www.kaggle.com/c/dl-2020-unibuc-cv/)
+
+### NLP Task on Kaggle
+
+> [Link to challenge](https://www.kaggle.com/c/dl-2020-unibuc-nlp)
 
