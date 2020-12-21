@@ -73,3 +73,7 @@
 
 > Long Short Term Memory (LSTMs)
 
+### [Lab5](./Labs/LAB05.pdf)
+
+> Autoencoders and Variational Autoencoders
+
