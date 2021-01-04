@@ -109,6 +109,10 @@
 
 > Autoencoders and Variational Autoencoders
 
+### [Lab6](./Labs/LAB06.zip)
+
+> Generative Adversarial Networks
+
 # Projects 
 
 ### Vision Task on Kaggle
