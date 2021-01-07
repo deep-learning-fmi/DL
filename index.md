@@ -81,6 +81,22 @@
 >
 > Continuous Bag-of-Words Model
 
+### [Lecture 11](./Lectures/Lecture11.pptx)
+
+> Lessons Learned from Word Embeddings
+>
+> Document Embeddings
+
+### [Lecture 12](./Lectures/Lecture12.pptx)
+
+> Fooling CNNs
+>
+> Adversarial Examples
+>
+> Robustness to Adversarial Examples
+>
+> Copying Black-Box Models
+
 # Labs 
 ### [Lab1](./Labs/LAB01.pdf)
 
