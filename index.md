@@ -73,6 +73,30 @@
 >
 > Image Generation
 
+### [Lecture 10](./Lectures/Lecture10.pptx)
+
+> Distributional Semantics
+>
+> Word Embeddings
+>
+> Skip-gram Model
+>
+> Continuous Bag-of-Words Model
+
+### [Lecture 11](./Lectures/Lecture11.pptx)
+
+> Lessons Learned from Word Embeddings
+>
+> Document Embeddings
+
+### [Lecture 12](./Lectures/Lecture12.pptx)
+
+> Multi-Head Self-Attention
+>
+> Language Transformers
+>
+> Vision Transformers
+
 # Labs 
 
 ### [Lab1](./Labs/Lab1.zip)
@@ -108,3 +132,13 @@
 ### [Lab5](./Labs/Lab5.zip)
 
 > Autoencoders and Variational Autoencoders
+>
+> [Solution](./Labs/Lab5-Solution.zip)
+
+### [Lab6](./Labs/Lab6.zip)
+
+> Generative Adversarial Networks
+
+### [Lab7](./Labs/Lab7.zip)
+
+> Language Transformers
