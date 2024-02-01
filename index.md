@@ -97,6 +97,12 @@
 >
 > Vision Transformers
 
+### [Lecture 13](./Lectures/Lecture13.pptx)
+
+> Adversarial Examples
+>
+> Robustness to Adversarial Examples
+
 # Labs 
 
 ### [Lab1](./Labs/Lab1.zip)
@@ -138,6 +144,8 @@
 ### [Lab6](./Labs/Lab6.zip)
 
 > Generative Adversarial Networks
+>
+> [Solution](./Labs/Lab6-Solution.zip)
 
 ### [Lab7](./Labs/Lab7.zip)
 
