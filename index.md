@@ -27,6 +27,14 @@
 >
 > Data Augmentation
 
+### [Lecture 5](./Lectures/Lecture5.pptx)
+
+> Recurrent Neural Networks
+>
+> Long Short-Term Memory
+>
+> Sequence-to-sequence
+
 # Labs 
 
 ### [Lab1](./Labs/Lab1.zip)
@@ -42,3 +50,12 @@
 ### [Lab2](./Labs/Lab2.zip)
 
 > CNNs for Text Classification
+>
+> [Solution](./Labs/Lab2-Solution.zip)
+
+### [Lab3](./Labs/Lab3.zip)
+
+> Transfer Learning
+>
+> If possible, please download in advance the Caltech 101 dataset from this [url](https://drive.google.com/file/d/137RyRjvTBkBiIfeYBNZBtViDHQ6_Ewsp/view)
+
