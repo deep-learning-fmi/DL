@@ -35,6 +35,22 @@
 >
 > Sequence-to-sequence
 
+### [Lecture 6](./Lectures/Lecture6.pptx)
+
+> Auto-encoders
+>
+> Convolutional Auto-encoders
+>
+> Denoising Auto-encoders
+>
+> Masked Auto-encoders
+>
+> Contractive Auto-encoders
+>
+> Stacked Auto-encoders
+>
+> Applications
+
 # Labs 
 
 ### [Lab1](./Labs/Lab1.zip)
