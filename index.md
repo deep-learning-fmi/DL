@@ -91,6 +91,24 @@
 >
 > Document Embeddings
 
+### [Lecture 12](./Lectures/Lecture12.pptx)
+
+> Multi-Head Self-Attention
+>
+> Language Transformers
+>
+> Vision Transformers
+
+### [Lecture 13](./Lectures/Lecture13.pptx)
+
+> Adversarial Examples
+>
+> Robustness to Adversarial Examples
+
+### [Lecture 14](./Lectures/Lecture14.pptx)
+
+> Diffusion Models
+
 # Labs 
 
 ### [Lab1](./Labs/Lab1.zip)
