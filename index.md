@@ -57,6 +57,16 @@
 >
 > Cycle-consistent Generative Adversarial Networks
 
+### [Lecture 8](./Lectures/Lecture8.pptx)
+
+> Object Localization
+>
+> Object Detection
+>
+> Faster R-CNN
+>
+> YOLO
+
 # Labs 
 
 ### [Lab1](./Labs/Lab1.zip)
@@ -80,4 +90,10 @@
 > Transfer Learning
 >
 > If possible, please download in advance the Caltech 101 dataset from this [url](https://drive.google.com/file/d/137RyRjvTBkBiIfeYBNZBtViDHQ6_Ewsp/view)
+>
+> [Solution](./Labs/Lab3-Solution.zip)
+
+### [Lab4](./Labs/Lab4.zip)
+
+> Long Short-Term Memory networks (LSTM)
 
