@@ -19,6 +19,38 @@
 
 > Convolutional Neural Networks
 
+### [Lecture 4](./Lectures/Lecture4.pptx)
+
+> Regularization
+>
+> Transfer Learning
+>
+> Data Augmentation
+
+### [Lecture 5](./Lectures/Lecture5.pptx)
+
+> Recurrent Neural Networks
+>
+> Long Short-Term Memory
+>
+> Sequence-to-sequence
+
+### [Lecture 6](./Lectures/Lecture6.pptx)
+
+> Auto-encoders
+>
+> Convolutional Auto-encoders
+>
+> Denoising Auto-encoders
+>
+> Masked Auto-encoders
+>
+> Contractive Auto-encoders
+>
+> Stacked Auto-encoders
+>
+> Applications
+
 # Labs 
 
 ### [Lab1](./Labs/Lab1.zip)
@@ -34,5 +66,11 @@
 ### [Lab2](./Labs/Lab2.zip)
 
 > CNNs for Text Classification
+>
+> [Solution](./Labs/Lab2-Solution.zip)
 
+### [Lab3](./Labs/Lab3.zip)
 
+> Transfer Learning
+>
+> If possible, please download in advance the Caltech 101 dataset from this [url](https://data.caltech.edu/records/mzrjq-6wc02)

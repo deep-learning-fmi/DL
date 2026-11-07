@@ -131,7 +131,7 @@
 
 > Transfer Learning
 >
-> If possible, please download in advance the Caltech 101 dataset from this [url](https://drive.google.com/file/d/137RyRjvTBkBiIfeYBNZBtViDHQ6_Ewsp/view)
+> If possible, please download in advance the Caltech 101 dataset from this [url](https://data.caltech.edu/records/mzrjq-6wc02)
 >
 > [Solution](./Labs/Lab3-Solution.zip)
 
